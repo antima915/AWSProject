@@ -14,7 +14,11 @@
  ```
  pip install boto3
  ```
-
+ 
+ **REACT**
+ ```
+ npx create-react-app <app_name>
+ ```
 **Functions for AWS Services**
 - **EC2**
 
